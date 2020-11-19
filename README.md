@@ -1,7 +1,7 @@
 # Aim 
 - To automate the process of skipping questions in **chegg expert Q&A** under **"I don't have the subject knowledge"** .
 - To gain knowledge about the python module pynput.
-- Ofcourse , to feel like you are a cse student and you know some tweaks and hacks.
+- Ofcourse , to feel like you are a computer science student and you know some tweaks and hacks.
 
 # Prerequisite
 1. Python 3
@@ -26,7 +26,7 @@
 
 # Screenshot 
 When you start the script in terminal it gives you output in this way</br>
-![alt go to repo and see the screenshots folder](https://github.com/Harry-kp//blob/main/Screenshots/chegg_ss.png?raw=true)
+![alt go to repo and see the screenshots folder](https://github.com/Harry-kp/Chegg_autoskip_question/blob/main/Screenshots/chegg_ss.png)
 </br>
 </br>
 </br>
