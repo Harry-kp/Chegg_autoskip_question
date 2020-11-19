@@ -49,7 +49,7 @@ class ClickMouse(threading.Thread):
 
 mouse = Controller()
 click_thread = ClickMouse(left_button)
-time.sleep(8)
+time.sleep(6)
 click_thread.start()
 
 
