@@ -28,19 +28,39 @@ pip install -r requirements.txt
 After that you can proceed to edit the Script.
 
 
+## Authors
+
+ **Harry Kp** - *Initial work* - [Harry Kp](https://github.com/Harry-kp/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+
+
 # Lets hack this
 
-1. ## Changes to be made.
+- ## Changes to be made.
+
    This script runs fine for the **15.6 inch display** and full browsing screen of browser. You have to change three values in the script according to your display size .
    * skip_button  - Place x,y coordinates according to your display size
    * reason_button - Place x,y coordinates according to your display size
    * submit_button  - Place x,y coordinates according to your display size</br>
 
    </br>
-   **This work can be done using brute force like running script and changing the value everytime cursor doesn't click the required button . I hope this is no issue .**
-2. ## Running the script
-    Run the script in the terminal and minimize the terminal . Open browser and enter to the Q&A section on expert chegg.
-3. ## Controlling the script
+             **This work can be done using brute force like running script and changing the value everytime cursor doesn't click the required button . I hope this is no issue .**
+   
+- ## Running the script
+
+    To run this script open your Terminal in the project directory.
+
+    ```
+    python autoskip_chegg_question.py
+    ```
+
+    Open browser and enter to the Q&A section on expert chegg.
+    
+- ## Controlling the script
+
    * Right Click - This play/pause the script . Everytime you see a questiom that you can answer right click and start answering .
    * middle mouse button - To stop the script or you can just open the terminal and stop from there .
 
