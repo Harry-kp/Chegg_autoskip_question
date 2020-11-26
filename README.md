@@ -28,11 +28,11 @@ pip install -r requirements.txt
 After that you can proceed to edit the Script.
 
 
-## Authors
+# Authors
 
  **Harry Kp** - *Initial work* - [Harry Kp](https://github.com/Harry-kp/)
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
