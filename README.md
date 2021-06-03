@@ -61,7 +61,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
     
 - ## Controlling the script
 
-   * Right Click - This play/pause the script . Everytime you see a questiom that you can answer right click and start answering .
+   * Right Click - This play/pause the script . Everytime you see a question that you can answer right click and start answering .
    * middle mouse button - To stop the script or you can just open the terminal and stop from there .
 
 # Screenshot 
