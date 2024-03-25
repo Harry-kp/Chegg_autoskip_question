@@ -1,3 +1,8 @@
+<div align="center">
+   <img src="https://github.com/Harry-kp/Chegg_autoskip_question/assets/55315065/93b5a6b1-86ad-4b5a-81ff-729bffc9e19e" alt="Logo" width="600"/>
+</div>
+
+
 # Aim 
 
 - To automate the process of skipping questions in **chegg expert Q&A** under **"I don't have the subject knowledge"** .
